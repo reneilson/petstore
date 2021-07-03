@@ -1,0 +1,7 @@
+com/example/petstore/models/Pet.class
+com/example/petstore/models/StatusOrder.class
+com/example/petstore/models/Tag.class
+com/example/petstore/models/Category.class
+com/example/petstore/ServletInitializer.class
+com/example/petstore/models/PetStatus.class
+com/example/petstore/PetstoreApplication.class
